@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ElectronicGadgets.BussnissLayerLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ElectronicGadgets.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ElectronicGadgets.BussnissLayerLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ElectronicGadgets.BussnissLayerLogic.dll": {}
+        }
+      },
+      "ElectronicGadgets.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ElectronicGadgets.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ElectronicGadgets.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElectronicGadgets.BussnissLayerLogic/1.0.0": {
+      "type": "project",
+      "path": "../ElectronicGadgets.BussnissLayerLogic/ElectronicGadgets.BussnissLayerLogic.csproj",
+      "msbuildProject": "../ElectronicGadgets.BussnissLayerLogic/ElectronicGadgets.BussnissLayerLogic.csproj"
+    },
+    "ElectronicGadgets.Entity/1.0.0": {
+      "type": "project",
+      "path": "../ElectronicGadgets.Entity/ElectronicGadgets.Entity.csproj",
+      "msbuildProject": "../ElectronicGadgets.Entity/ElectronicGadgets.Entity.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ElectronicGadgets.BussnissLayerLogic >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/shikhartiwari/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.UI/ElectronicGadgets.UI.csproj",
+      "projectName": "ElectronicGadgets.UI",
+      "projectPath": "/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.UI/ElectronicGadgets.UI.csproj",
+      "packagesPath": "/Users/shikhartiwari/.nuget/packages/",
+      "outputPath": "/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.UI/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/shikhartiwari/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/ElectronicGadgets.BussnissLayerLogic.csproj": {
+              "projectPath": "/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/ElectronicGadgets.BussnissLayerLogic.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

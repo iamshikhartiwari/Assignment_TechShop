@@ -1,0 +1,15 @@
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/bin/Debug/net8.0/ElectronicGadgets.BussnissLayerLogic.deps.json
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/bin/Debug/net8.0/ElectronicGadgets.BussnissLayerLogic.dll
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/bin/Debug/net8.0/ElectronicGadgets.BussnissLayerLogic.pdb
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/bin/Debug/net8.0/ElectronicGadgets.Entity.dll
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/bin/Debug/net8.0/ElectronicGadgets.Entity.pdb
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/obj/Debug/net8.0/ElectronicGadgets.BussnissLayerLogic.csproj.AssemblyReference.cache
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/obj/Debug/net8.0/ElectronicGadgets.BussnissLayerLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/obj/Debug/net8.0/ElectronicGadgets.BussnissLayerLogic.AssemblyInfoInputs.cache
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/obj/Debug/net8.0/ElectronicGadgets.BussnissLayerLogic.AssemblyInfo.cs
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/obj/Debug/net8.0/ElectronicGadgets.BussnissLayerLogic.csproj.CoreCompileInputs.cache
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/obj/Debug/net8.0/Electron.AA061604.Up2Date
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/obj/Debug/net8.0/ElectronicGadgets.BussnissLayerLogic.dll
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/obj/Debug/net8.0/refint/ElectronicGadgets.BussnissLayerLogic.dll
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/obj/Debug/net8.0/ElectronicGadgets.BussnissLayerLogic.pdb
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/obj/Debug/net8.0/ref/ElectronicGadgets.BussnissLayerLogic.dll

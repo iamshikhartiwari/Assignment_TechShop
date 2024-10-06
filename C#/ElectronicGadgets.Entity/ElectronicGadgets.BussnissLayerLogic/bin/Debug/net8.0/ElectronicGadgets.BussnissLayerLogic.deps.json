@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ElectronicGadgets.BussnissLayerLogic/1.0.0": {
+        "dependencies": {
+          "ElectronicGadgets.Entity": "1.0.0"
+        },
+        "runtime": {
+          "ElectronicGadgets.BussnissLayerLogic.dll": {}
+        }
+      },
+      "ElectronicGadgets.Entity/1.0.0": {
+        "runtime": {
+          "ElectronicGadgets.Entity.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElectronicGadgets.BussnissLayerLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ElectronicGadgets.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
