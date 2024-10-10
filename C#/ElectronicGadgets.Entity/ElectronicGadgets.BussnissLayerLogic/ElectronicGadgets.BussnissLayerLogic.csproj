@@ -8,6 +8,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\ElectronicGadgets.Entity\ElectronicGadgets.Entity.csproj" />
+      <ProjectReference Include="..\ElectronicGadgets.utils\ElectronicGadgets.utils.csproj" />
     </ItemGroup>
 
 </Project>

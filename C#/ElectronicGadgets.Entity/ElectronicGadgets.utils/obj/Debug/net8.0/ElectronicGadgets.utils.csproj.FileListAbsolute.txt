@@ -1,0 +1,12 @@
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.utils/bin/Debug/net8.0/ElectronicGadgets.utils.deps.json
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.utils/bin/Debug/net8.0/ElectronicGadgets.utils.dll
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.utils/bin/Debug/net8.0/ElectronicGadgets.utils.pdb
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.utils/obj/Debug/net8.0/ElectronicGadgets.utils.csproj.AssemblyReference.cache
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.utils/obj/Debug/net8.0/ElectronicGadgets.utils.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.utils/obj/Debug/net8.0/ElectronicGadgets.utils.AssemblyInfoInputs.cache
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.utils/obj/Debug/net8.0/ElectronicGadgets.utils.AssemblyInfo.cs
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.utils/obj/Debug/net8.0/ElectronicGadgets.utils.csproj.CoreCompileInputs.cache
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.utils/obj/Debug/net8.0/ElectronicGadgets.utils.dll
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.utils/obj/Debug/net8.0/refint/ElectronicGadgets.utils.dll
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.utils/obj/Debug/net8.0/ElectronicGadgets.utils.pdb
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.utils/obj/Debug/net8.0/ref/ElectronicGadgets.utils.dll

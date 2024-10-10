@@ -13,3 +13,5 @@
 /Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/obj/Debug/net8.0/refint/ElectronicGadgets.BussnissLayerLogic.dll
 /Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/obj/Debug/net8.0/ElectronicGadgets.BussnissLayerLogic.pdb
 /Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/obj/Debug/net8.0/ref/ElectronicGadgets.BussnissLayerLogic.dll
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/bin/Debug/net8.0/ElectronicGadgets.utils.dll
+/Users/shikhartiwari/RiderProjects/ElectronicGadgets.Entity/ElectronicGadgets.BussnissLayerLogic/bin/Debug/net8.0/ElectronicGadgets.utils.pdb
