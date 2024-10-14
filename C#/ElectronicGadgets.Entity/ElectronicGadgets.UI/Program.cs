@@ -107,7 +107,7 @@ namespace ElectronicGadget.App
 
 
 
-            Console.WriteLine("Thank You for Visiting TechShop");
+            Console.WriteLine("Thank You");
             Console.ReadKey();
 
 
