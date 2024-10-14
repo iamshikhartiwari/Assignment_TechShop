@@ -18,17 +18,17 @@ namespace ElectronicGadget.App
 
            
             Customers customer = new Customers();
-            customer.CustomerID = 101 ;
-            customer.FirstName = "Sejal";
-            customer.LastName = "Sihare";
-            customer.Email = "sejal22@gmail.com";
+            customer.CustomerID = 541 ;
+            customer.FirstName = "Shikhar";
+            customer.LastName = "Tiwari";
+            customer.Email = "shikhar@gmail.com";
             customer.Phone = "99925555";
             customer.Address = "Indore";
             CustomerBuisness customerbuisness = new CustomerBuisness();
             Console.WriteLine("Welcome To Customers");
             customerbuisness.CalculateTotalOrders();
             customerbuisness.GetCustomerDetails(customer);
-           customerbuisness.UpdateCustomerInfo(customer, "ss@gmail.com", "8878908876", "Inore");
+           customerbuisness.UpdateCustomerInfo(customer, "st@gmail.com", "1234567899", "Mainpuri");
             customerbuisness.GetCustomerDetails(customer);
             Console.WriteLine("           ");
 
